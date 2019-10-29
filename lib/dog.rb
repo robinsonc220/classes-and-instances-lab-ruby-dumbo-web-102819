@@ -1,2 +1,5 @@
-defradio_button_tag
-  
+def dog
+  fido =
+  snoopy =
+  lassie
+end  
