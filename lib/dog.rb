@@ -1,4 +1,4 @@
-def dog
+class Dog
   fido =
   snoopy =
   lassie =
