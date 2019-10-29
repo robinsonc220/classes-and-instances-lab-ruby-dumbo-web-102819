@@ -1,4 +1,6 @@
 class Person
- adele_goldberg
- alane_kay
+ 
+ adele_goldberg =
+ alane_kay =
+
 end
