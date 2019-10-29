@@ -1,5 +1,6 @@
 def dog
   fido =
   snoopy =
-  lassie
+  lassie =
+  
 end  
